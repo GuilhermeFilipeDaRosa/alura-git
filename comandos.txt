@@ -36,3 +36,11 @@ git branch {nome novo brach} cria novo
 git checkout {nome do branch a logar}
 
 git merge {nome do branch}
+
+git rebase titulo
+
+git log --graph
+
+git checkout -- index.html (desfazer as alterações indevidas)
+
+git reset HEAD index.html (para voltar alterações adicionadas para commit)
