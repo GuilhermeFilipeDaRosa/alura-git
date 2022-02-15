@@ -34,3 +34,5 @@ git branch lista os branch
 git branch {nome novo brach} cria novo
 
 git checkout {nome do branch a logar}
+
+git merge {nome do branch}
