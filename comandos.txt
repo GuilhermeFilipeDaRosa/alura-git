@@ -45,8 +45,12 @@ git checkout -- index.html (desfazer as alterações indevidas, antes de adicion
 
 git reset HEAD index.html (para voltar alterações adicionadas para commit)
 
+<<<<<<< Updated upstream
 git revert 024a45858d3d8a374edd7f63c613edb27d6d2e66
 
 git stash, salvar alterações sem commitar
 
 git stash list, lista as alterações salvas no stash
+=======
+git revert 024a45858d3d8a374edd7f63c613edb27d6d2e66
+>>>>>>> Stashed changes
